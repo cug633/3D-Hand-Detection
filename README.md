@@ -1,3 +1,3 @@
 # 3D-Hand-Detection
-This repository is an pytorch implement of *Robust 3D Hand Detection from a Single RGB-D Image in Unconstrained Environments*.  
+This repository is a pytorch implement of *Robust 3D Hand Detection from a Single RGB-D Image in Unconstrained Environments*.  
 Coming soon...
