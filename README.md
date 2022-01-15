@@ -12,7 +12,7 @@ CUGHand dataset provides:
 
 ### [Downloading url](https://1drv.ms/u/s!AiO4RSFtV9kehm4ULtjAWdeCWJXn?e=ctbeAP)  
 
-### Code Available
+## Code Available
 If you are interested in our code, please feel free to contact us by the following Email.
 - jchow@cug.edu.cn
 - xuchi@cug.edu.cn
