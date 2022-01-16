@@ -10,8 +10,6 @@ CUGHand dataset provides:
 - 24 ASL hand gestures  
 - Unconstrained environment  
 
-### [Downloading url](https://1drv.ms/u/s!AiO4RSFtV9kehm4ULtjAWdeCWJXn?e=ctbeAP)  
-
 ## Code Available
 If you are interested in our code, please feel free to contact us by the following Email.
 - jchow@cug.edu.cn
